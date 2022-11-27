@@ -1,7 +1,7 @@
 # Hello there, I´m Juan Manuel 🙌
 ## I'm software developer, and Bachelor's Degree in Computer Science student  
 
-- 🔭 I’m currently studying on [Universidad de Palermo](https://www.palermo.edu/)  
+- 🔭 I’m currently studying at [Universidad de Palermo](https://www.palermo.edu/)  
   
 - 🌱 I’m currently learning Python, JavaScript and Git  
   
