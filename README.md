@@ -1,5 +1,5 @@
 # Hello there, I´m Juan Manuel 🙌
-## I'm software developer, and Computer Science student  
+## I'm software developer and Computer Science student  
 
 - 🔭 I’m currently studying at [Universidad de Palermo](https://www.palermo.edu/)  
   
