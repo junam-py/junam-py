@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like playing Table Tennis  
 
 ### Social Media
-- 💻 Check my [HackerRank profile](https://www.hackerrank.com/justjuanma?hr_r=1) to keep up to date with my progress in competitive programming.
+- 💻 Check my [HackerRank profile](https://www.hackerrank.com/justjuanma?hr_r=1) to keep up to date with my progress in competitive programming
 - 📝 Check my [Reddit profile](https://www.reddit.com/user/just-juanma) for blog posting
 - 💬 Add me on Discord: @just-juanma#7477
 
