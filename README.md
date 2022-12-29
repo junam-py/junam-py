@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently studying at [Universidad de Palermo](https://www.palermo.edu/)  
   
-- 🌱 I’m currently learning Python, JavaScript and Git  
-  
 - ⚡ Fun fact: I like playing Table Tennis  
 
 ### Social Media
