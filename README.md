@@ -15,14 +15,19 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40"/>
+</p>
+
+<h3 align="left">Other technologies</h3>
+<p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/> 
-  
-</p>
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> 
+ </p>
+ 
 <h3 align="left">Stats</h3>
 <p align="left">
     &nbsp;
