@@ -27,9 +27,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> 
  </p>
- 
-<h3 align="left">Stats</h3>
-<p align="left">
-    &nbsp;
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=just-juanma&show_icons=true&theme=dark&locale=en&layout=compact" />
-</p>
