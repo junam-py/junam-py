@@ -18,6 +18,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">Other technologies</h3>
