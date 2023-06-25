@@ -8,7 +8,7 @@
 ### Social Media
 - 💻 Check my [HackerRank profile](https://www.hackerrank.com/justjuanma?hr_r=1) to keep up to date with my progress in competitive programming
 - 📝 Check my [Hashnode blog](https://just-juanma.hashnode.dev/) for blog posting
-- 💬 Add me on Discord: @just-juanma#7477
+- 💬 Add me on Discord: justjuanma
 
 <h3 align="left">Languages</h3>
 <p align="left">
