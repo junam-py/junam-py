@@ -6,9 +6,8 @@
 - ⚡ Fun fact: I like playing Table Tennis  
 
 ### Social Media
-- 💻 Check my [HackerRank profile](https://www.hackerrank.com/justjuanma?hr_r=1) to keep up to date with my progress in competitive programming
 - 📝 Check my [Spanish portfolio](https://jgonzalezkapnik.netlify.app/) to know me better
-- 💬 Add me on Discord: justjuanma
+- 💬 Add me on Discord: junam.py
 
 <h3 align="left">Languages</h3>
 <p align="left">
