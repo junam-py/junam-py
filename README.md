@@ -8,6 +8,7 @@
 ### Social Media
 - 📝 Check my [Spanish portfolio](https://jgonzalezkapnik.netlify.app/) to know me better
 - 💬 Add me on Discord: junam.py
+- 📩 Email: juanmanuelgonzalezkapnik@gmail.com
 
 <h3 align="left">Languages</h3>
 <p align="left">
