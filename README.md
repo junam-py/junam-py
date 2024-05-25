@@ -2,7 +2,7 @@
 ## I'm software developer and Computer Science student  
 
 - 🔭 I’m currently studying at [Universidad de Palermo](https://www.palermo.edu/)  
-  
+-  💼 I’m currently working as a technology services support at [Tenaris](https://www.tenaris.com/)  
 - ⚡ Fun fact: I like playing Table Tennis  
 
 ### Social Media
