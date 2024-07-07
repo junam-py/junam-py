@@ -1,8 +1,8 @@
 # Hello there, I´m Juan Manuel 🙌
-## I'm a Bachelor's Degree in Informatics student
+## I'm a Data Science Engineering student
 
 - 🔭 I’m currently studying at [Universidad de Palermo](https://www.palermo.edu/)  
--  💼 I’m currently working as a BI Support Analyst at [Tenaris](https://www.tenaris.com/)  
+-  💼 I’m currently working as a Business Analytics Processing L1 Support at [Tenaris](https://www.tenaris.com/)  
 - ⚡ Fun fact: I like playing Table Tennis  
 
 ### Social Media
